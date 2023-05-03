@@ -1,0 +1,13 @@
+Notes for today...
+
+Ive added dlib face detection to the data detection side of things
+    This allows for the actual size and shape of face to be considered.
+    I might just remove this to the eyes.
+
+    I am ready to  begin training the network, but I have an idea
+
+    - Lets try training it to only detect the horizontal section
+    - Then do the same for vertical
+
+    This is the proof of concept for the final horizontal and vertical network.
+        If i can get both working, i might just be able to run it through this in post.

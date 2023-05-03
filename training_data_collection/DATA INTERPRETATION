@@ -1,0 +1,17 @@
+SAMPLE CALIB DATA:
+    C10	A	-3.1174465206789677	-22.15440078330334
+
+SAMPLE DATA:
+    Broken up as...
+    - Sample number
+    - X coord of section being viewed
+    - Y coord of section being viewed
+    - Pitch
+    - Yaw
+    - Distance between eyes
+    - Height of Face
+    - Width of Face
+    - Rectangle Surrounding Face (in form of list)
+    - Landmarks Detected (in form of list)
+
+    D10	 0	1	-14.846253490476204	-16.93506504298437      ????    ????    ????    ????    ????
